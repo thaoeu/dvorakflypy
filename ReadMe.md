@@ -2,4 +2,4 @@
 
 具体码表需要等一段时间。
 
-有成果了，[XII输入法](https://github.com/thaoeu/XII.git)。
+有成果了，[XII 输入法](https://github.com/thaoeu/XII.git)。
